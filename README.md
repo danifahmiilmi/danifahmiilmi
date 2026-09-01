@@ -1,7 +1,7 @@
 ## Hello word! I'm Dani Fahmi Ilmi 👋
 
 
-![Dani Fahmi Ilmi](https://github.com/danifahmiilmi/danifahmiilmi/blob/main/foto1.png?raw=true)
+![Dani Fahmi Ilmi](https://github.com/danifahmiilmi/danifahmiilmi/blob/main/foto.1.png?raw=true)
 <!--
 **danifahmiilmi/danifahmiilmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
