@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hello word! I'm Dani Fahmi Ilmi 👋
 
+
+![Dani Fahmi Ilmi](https://github.com/danifahmiilmi/danifahmiilmi/blob/main/foto1.png?raw=true)
 <!--
 **danifahmiilmi/danifahmiilmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on: **Memahami kenapa kode saya error, sambil mendalami HTML, CSS, dan JavaScript dari nol.**
+- 🌱 I’m currently learning **Laravel Framework**
+- 😊😊😊
+
+![Mencari Bug yang hilang](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFxZzFtaDlwbjdscWgyeXI4bXE1YWU3bHFzcDhxM29jcWM0ZmszNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
