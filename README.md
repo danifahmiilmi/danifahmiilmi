@@ -1,4 +1,4 @@
-## Hello word! I'm Dani Fahmi Ilmi 👋
+## Hello world! I'm Dani Fahmi Ilmi 👋
 
 
 ![Dani Fahmi Ilmi](https://github.com/danifahmiilmi/danifahmiilmi/blob/main/foto.1.png?raw=true)
